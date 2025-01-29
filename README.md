@@ -57,3 +57,11 @@ When looking at the trends in departure time (with green indicating short haul a
 ![Wants Preferred Seat](https://github.com/user-attachments/assets/26835f0a-a845-4fe2-9f9a-d770ab98d566)
 
 In general, long haul passengers are more likely to book additional services such as extra bags and in-flight meals.
+
+## Future Work
+* Since the original dataset didn't measure price, price of tickets can be compared to see if long haul passengers are more price-sensitve
+* More services such as whether a passenger purchased in-flight wi-fi can be recorded
+* Breakdown of aircraft type can also be recorded to analyze if passengers on short and long haul flights have preference for certain planes
+
+## Acknowledgments
+Dataset by: [Anand Shaw](https://www.kaggle.com/anandshaw2001)
