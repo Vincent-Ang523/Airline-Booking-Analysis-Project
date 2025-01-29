@@ -48,4 +48,12 @@ modified wants_extra_baggage, wants_in_flight_meals and wants_preferred_seat col
 
 ## Results
 In general, long haul and short haul passengers exhibit similar booking patterns, with some notable exceptions.
-![Departure Time](E:\SQL Project\Airline Booking Project\Images\Departure Time.png)
+![Departure Time](https://github.com/user-attachments/assets/7c448bbb-334f-4548-b35d-a38987df3a3c)
+
+When looking at the trends in departure time (with green indicating short haul and blue indicating long haul), we can see that short haul passenger bookings increased from 12 pm to 2 pm whereas long haul bookings decreased.
+
+![Wants Extra Bag](https://github.com/user-attachments/assets/54b85b58-a661-4e5f-ae0e-751a3f2bb954)
+![Wants In Flight Meal](https://github.com/user-attachments/assets/fa4e9531-e2ee-431d-9a0f-77f031ca8131)
+![Wants Preferred Seat](https://github.com/user-attachments/assets/26835f0a-a845-4fe2-9f9a-d770ab98d566)
+
+In general, long haul passengers are more likely to book additional services such as extra bags and in-flight meals.
