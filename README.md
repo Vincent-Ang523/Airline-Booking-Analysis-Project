@@ -45,3 +45,7 @@ case when wants_preferred_seat = 1 then 'yes'
         from customer_booking
 ```
 modified wants_extra_baggage, wants_in_flight_meals and wants_preferred_seat column from original file from containing 1 and 0 to yes and no for tableau visualization, as well as changing the column names.
+
+## Results
+In general, long haul and short haul passengers exhibit similar booking patterns, with some notable exceptions.
+![Departure Time](E:\SQL Project\Airline Booking Project\Images\Departure Time.png)
